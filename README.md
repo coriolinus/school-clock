@@ -26,3 +26,8 @@ Your school begins first period at 0830 daily. Class periods are one hour long. 
 | 09:30:00 | 09:30:00 |
 
 This cycle of speeded and slowed time will then repeat indefinitely. At all times not recorded in the table, the reported time is linearly interpolated appropriately.
+
+## Attribution
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You know what would be fun to install in schools? An analog clock that runs slightly faster for most of the hour, and then slows down by a factor of 3 when the minute hand gets to X:58, so it takes 6 minutes to get to :00. (Ideally adjustable, in case the class ends at e.g. :35.)</p>&mdash; Eliezer Yudkowsky (@ESYudkowsky) <a href="https://twitter.com/ESYudkowsky/status/1107812511087095808?ref_src=twsrc%5Etfw">March 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
